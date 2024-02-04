@@ -1,3 +1,3 @@
-# Pin My Favorite Contact | React
+# Pin Mi Favorito Contact | React
 
 🌎 Website: https://pinmyfavoritecontact.netlify.app/
